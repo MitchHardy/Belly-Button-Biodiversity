@@ -1,0 +1,12 @@
+body {
+    color: #000000;
+    background-color: 	#D3D3D3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+.jumbotron {
+    background-image: url("../images/biodiversity_image.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: #F5F5F5;
+  }
